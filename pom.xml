@@ -15,10 +15,10 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
+        <module>application</module>
         <module>adapters-in</module>
         <module>adapters-out</module>
         <module>domain</module>
-        <module>application</module>
     </modules>
 
     <properties>
@@ -33,12 +33,4 @@
         </dependency>
     </dependencies>
 
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-        </plugins>
-    </build>
 </project>
