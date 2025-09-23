@@ -1,4 +1,4 @@
-package org.example.service.strategy;
+package org.example.service.strategy.example;
 
 import org.example.domain.Email;
 import org.slf4j.Logger;

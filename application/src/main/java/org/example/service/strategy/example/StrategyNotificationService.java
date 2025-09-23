@@ -1,4 +1,4 @@
-package org.example.service.strategy;
+package org.example.service.strategy.example;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

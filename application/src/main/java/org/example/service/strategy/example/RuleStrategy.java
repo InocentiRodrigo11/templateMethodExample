@@ -1,4 +1,4 @@
-package org.example.service.strategy;
+package org.example.service.strategy.example;
 
 public interface RuleStrategy {
 
